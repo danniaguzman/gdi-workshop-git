@@ -1,2 +1,3 @@
 Hello world! :)
-Adding more texts to see unstage=ing changes.
+Adding more texts to see unstaging changes.
+ line #3 to test
