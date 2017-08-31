@@ -3,3 +3,5 @@ Adding a new line to file 3
 Update 1 to file 3.
 
 Update 2 to file 3.
+
+Update 3 to file 3.
