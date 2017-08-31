@@ -1,1 +1,3 @@
 Adding a new line to File 1
+
+Adding second line to File 1
